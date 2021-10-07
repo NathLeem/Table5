@@ -1,0 +1,4 @@
+H:\Table5\Table5\obj\Debug\netcoreapp3.1\Table5.csprojAssemblyReference.cache
+H:\Table5\Table5\obj\Debug\netcoreapp3.1\Table5.AssemblyInfoInputs.cache
+H:\Table5\Table5\obj\Debug\netcoreapp3.1\Table5.AssemblyInfo.cs
+H:\Table5\Table5\obj\Debug\netcoreapp3.1\Table5.csproj.CoreCompileInputs.cache
